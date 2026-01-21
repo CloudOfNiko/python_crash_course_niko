@@ -1,1 +1,3 @@
-# python_crash_course_niko
+# Niko's Python Crash Course Repository
+
+It's a mess.
