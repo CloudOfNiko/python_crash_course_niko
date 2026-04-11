@@ -1,0 +1,5 @@
+In Python you can make lists.
+In Python you can prompt the user for input.
+In Python you can store data in dictionaries.
+In Python you can assign a file's contents to a variable.
+In Python you can make modules to use in different programs.
